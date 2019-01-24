@@ -90,6 +90,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Completions.BasicCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1547890395668" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Navigation.JumptoSource">
           <value>
             <StatisticData>
